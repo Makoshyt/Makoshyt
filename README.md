@@ -1,7 +1,7 @@
  
 <div align="center">
 
-# 👨‍💻 Marco Teixeira
+# 👨‍💻 MakoShyt
 
 ### Software Engineering Student | Full Stack Developer | AI & Automation Enthusiast
 
@@ -127,8 +127,8 @@ Software Engineering
 │   └── Database Design
 │
 ├── Frontend Development
-│   ├── HTML & CSS
-│   └── JavaScript
+│   ├── React/Angular
+│   └── TypeScript
 │
 ├── Artificial Intelligence
 │   ├── Large Language Models
@@ -192,8 +192,8 @@ If you're building something interesting in software development or artificial i
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU-USUARIO](https://www.linkedin.com/in/marco-moura01/))
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MakoShyt)
 
 **Always learning. Always building. Always improving.**
 
